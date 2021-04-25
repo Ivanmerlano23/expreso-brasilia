@@ -57,7 +57,7 @@ header article figure a { width: 78%; height: auto; margin: 0 auto; float: none;
 header article figure a img { width: 100%; height: auto; margin: 0 auto; float: none; position: relative; display: block; top: 17px; }
 header article figure a:hover { transform: scale(1.05); transition: all 0.3s ease-in; }
 
-header article nav { width: 502px; height: 40px; margin: 23px 0; float: right; position: relative; }
+header article nav { width: 503px; height: 40px; margin: 23px 0; float: right; position: relative; }
 header article nav a { width: auto; height: auto; margin: 0 15px; float: left; position: relative; display: block; padding: 12px 0; text-decoration: none; color: #fff; font-weight: 800; font-size: 1em; line-height: 1em; text-transform: uppercase; letter-spacing: 0.09em; transition: all 0.3s ease-in; }
 header article nav a:hover { color: rgb(177, 0, 0); text-shadow: 0 0 8px rgb(0 0 0 / 30%); transition: all 0.3s ease-in; }
 
